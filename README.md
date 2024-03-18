@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prueba técnica para Backend o Fullstack
 En este repositorio encontrarás todo lo necesario para completar la prueba y demostrar tus habilidades en el desarrollo de aplicaciones web del lado del servidor.
 
@@ -161,3 +162,7 @@ La prueba se evaluará en base a los siguientes criterios:
 * Se valorará la capacidad del candidato para resolver problemas de forma creativa y eficiente.
 * Se tendrá en cuenta la claridad y la documentación del código.
 * Se recomienda realizar pruebas exhaustivas de la aplicación antes de entregarla.
+=======
+# prueba_backend
+Ejercicio de prueba backend
+>>>>>>> 5c07edd5254d89a5d9ec61c12ff6be7e32ea64d4
